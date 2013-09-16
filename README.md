@@ -17,8 +17,8 @@ All the elements can be resized dynamically at run time using size extenders , a
 *currently resizing and repositioning cannot be executed simultaneously. click the lock in property pane to resize and then unlock pnce resizing is done*.
 Design room generates code for the design and can provide zip download for the same.User can also view the code any time they like.
 
-To run design-room locally , download and place the design-room in your www directory or any other folder according to your php environment,
-and make sure curl is enabled , see [this](http://www.tomjepson.co.uk/enabling-curl-in-php-php-ini-wamp-xamp-ubuntu/) and enter the url of design-room in your root directory.
+*To run design-room locally , download and place the design-room in your www directory or any other folder according to your php environment,
+and make sure curl is enabled , see [this](http://www.tomjepson.co.uk/enabling-curl-in-php-php-ini-wamp-xamp-ubuntu/) and enter the url of design-room in your root directory.*
 
 Credits :  
 
