@@ -70,6 +70,7 @@ $.ajax({
 	    {
   	
 	  	mkdir("./user_content/".$_SESSION['user_name'], 0700);
+	  	copy("images/browsers/safari.png", "./user_content/".$_SESSION['user_name']."/safari.png");
 	
 	
 	    }
