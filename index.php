@@ -100,7 +100,9 @@ The canvas provides drag and drop capabilities and dynamic repositioning of elem
 size extenders , appended at bottom right of elements.Elements can also be removed from canvas by dragging them to the trash can.
 Ajax image uploader provided with Design room is also drag and drop bases,just drop the images you want to upload , and they will on 
 canvas in no time.Design room generates the code at backend for the design you created.Any time user can view the source code by clicking in status bar at top.
-Code will be formatted and syntax highlighted(using jquery libraries).Also , code can be downloaded at any time.</br></br>
+Code will be formatted and syntax highlighted(using jquery libraries).Also , code can be downloaded at any time.Since , this is beta version, your
+code will not be stored on the servers, so download it before logging out or closing browser tab.For initial testing ,safari image is placed, on the canvas
+.Go ahead , give it a try.</br></br>
 
 <h3>Login to enter the design room ------------> </h3>
 </br>
