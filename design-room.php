@@ -29,7 +29,7 @@ if(isset($_SESSION['logged_in']) && ($_SESSION['logged_in']==1))
 <script src="./js/colorpicker.js"></script>
 <script src="./js/propertybox.js"></script>
 <script src="./js/toolbar.js"></script>
-<script src="./js/surfaceDND.js"></script>
+<script src="./js/SurfaceDND.js"></script>
 <script src="./js/css-engine.js"></script>
 <script src="./js/clean.js"></script>
 <script src="./js/rainbow.js"></script>
