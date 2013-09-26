@@ -28,6 +28,7 @@ Credits :
 * [chardin.js](https://github.com/heelhook/chardin.js) for instruction overlay
 
 
+Live Demo : [Here](experiments.mayankbhola.in/design-room/index.php)
 
 ---
 &copy; mayank bhola 2013
